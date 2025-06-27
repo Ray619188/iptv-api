@@ -1,16 +1,15 @@
 🕘️更新时间,#genre#
-2025-06-27 18:49:34,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-06-28 06:44:12,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 📺央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
+CCTV-5,http://112.46.85.60:8009/hls/503/index.m3u8
+CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
-CCTV-6,http://fn.tmde.top:35455/mgtv/624878396.m3u8
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
-CCTV-14,http://fn.tmde.top:35455/mgtv/624878440.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -41,28 +40,22 @@ CCTV-14,http://fn.tmde.top:35455/mgtv/624878440.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://222.134.245.16:9901/tsfile/live/0122_1.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
-湖北卫视,http://fn.tmde.top:35455/nptv/hubei.m3u8
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
-安徽卫视,http://fn.tmde.top:35455/nptv/anhui.m3u8
+重庆卫视,http://fn.tmde.top:35455/nptv/chongqing.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://119.32.12.17:2901/udp/224.1.100.56:11111
-东南卫视,http://fn.tmde.top:35455/nptv/dongnan.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-甘肃卫视,http://fn.tmde.top:35455/nptv/gansu.m3u8
-贵州卫视,http://111.172.12.162:1111/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://fn.tmde.top:35455/nptv/guizhou.m3u8
-海南卫视,http://fn.tmde.top:35455/nptv/hainan.m3u8
+广西卫视,http://101.66.195.152:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
-河南卫视,http://fn.tmde.top:35455/nptv/henan.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8
+江西卫视,http://fn.tmde.top:35455/nptv/jiangxi.m3u8
 辽宁卫视,http://39.164.180.36:19901/tsfile/live/0121_1.m3u8
+内蒙古卫视,http://fn.tmde.top:35455/nptv/neimenggu.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://fn.tmde.top:35455/nptv/shanxiws.m3u8
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
-四川卫视,http://fn.tmde.top:35455/nptv/sichuan.m3u8
-深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8
+四川卫视,http://1b6467f415.iok.la:9931/tsfile/live/1072_1.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8
