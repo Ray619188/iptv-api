@@ -1,17 +1,25 @@
 🕘️更新时间,#genre#
-2025-09-06 18:16:25,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-09-07 06:15:00,http://111.43.126.240:9003/hls/14/index.m3u8
 
 📺央视频道,#genre#
+CCTV-2,http://111.43.126.240:9003/hls/14/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-11,http://111.43.126.240:9003/hls/24/index.m3u8
+CCTV-12,http://111.43.126.240:9003/hls/25/index.m3u8
+CCTV-13,http://111.43.126.240:9003/hls/26/index.m3u8
+CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
+第一剧场,http://120.198.95.220:9901/tsfile/live/1071_1.m3u8?key=txiptv
+怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
 兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
@@ -20,6 +28,8 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+广西卫视,http://111.43.126.240:9003/hls/62/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://sh.lnott.top:880/dx51.m3u8
