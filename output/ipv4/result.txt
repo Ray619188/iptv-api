@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-10 06:16:57,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+2025-11-10 18:22:59,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 
 📺央视频道,#genre#
 
@@ -23,4 +23,3 @@
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv
